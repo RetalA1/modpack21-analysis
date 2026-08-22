@@ -3,7 +3,7 @@
 
 
 
- Modpack21.exe: Discord token stealer using Node.js 'pkg' with hidden payload in 'snapshot/app.js'
+ Modpack21.exe: A Discord token stealer that hides its payload in 'snapshot/app.js' inside a 'Node.js' pkg and exfiltrates stolen tokens and credentials via webhooks.
 
 Lab: Flare VM (On Windows 10 VM) & Remnux
 
